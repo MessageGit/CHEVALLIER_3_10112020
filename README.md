@@ -1,4 +1,4 @@
-# Version SASS #
+# Ohmyfood - Sass version
 
 Projet n°3 OC | CHEVALLIER Grégory.
 
